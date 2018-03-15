@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": null,
+        "database": "schedulerbot",
+        "host": "127.0.0.1",
+        "port": 32768,
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "postgres",
+        "password": null,
+        "database": "schedulerbot",
+        "host": "127.0.0.1",
+        "port": 32768,
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "postgres",
+        "password": null,
+        "database": "schedulerbot",
+        "host": "127.0.0.1",
+        "port": 32768,
+        "dialect": "postgres"
+    }
+}
